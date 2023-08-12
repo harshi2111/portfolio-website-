@@ -1,5 +1,5 @@
 # portfolio-website
-This is a repository for my personal portfolio website which is hosted on Github pages. https://harshi2111.github.io/portfolio-website-/
+This is a repository for my personal portfolio website.
 
 # Made with
 HTML CSS JavaScript
